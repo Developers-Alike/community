@@ -1,2 +1,1 @@
-# community
-This repository hosts the GitHub organisation discussions.
+This repository is used to host discussions for the GitHub organization.
